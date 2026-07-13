@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6a3093?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Manohar2503)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6a3093?style=for-the-badge&logo=vercel&logoColor=white)](https://manohar-jinka.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoharJinka)
 [![Email](https://img.shields.io/badge/Email-8e2de2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manoharjinka02@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manohar2503)
@@ -34,7 +34,7 @@ I'm a backend-leaning full-stack engineer building distributed systems in **Java
 - 🎓 B.Tech CSE, Vasireddy Venkatadri Institute of Technology — CGPA 8.5/10.0 (2022–2026)
 - 💼 Software Engineer Intern @ AscendSkills (Feb–May 2025) — cut API response latency 30% under load
 - 🏆 Finalist, Adobe India Hackathon 2025 (national level) · 1st Place, VVIT Internal Hackathon
-- 🧩 381 problems solved on LeetCode, including 75 DP and graph/backtracking problems
+- 🧩 400+ problems solved on LeetCode, including 75 DP and graph/backtracking problems
 - 🌱 Open-source contributor — merged PR to [ApostropheCMS](https://github.com/apostrophecms/apostrophe)
 - 🔭 Open to: Software Engineer roles — backend, full-stack, or distributed systems
 
@@ -139,26 +139,6 @@ Refactored backend API routes to reduce response latency under load.
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Manohar2503&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manohar2503&layout=compact&hide_border=true&theme=tokyonight" height="165" />
-
-<img src="https://streak-stats.demolab.com/?user=Manohar2503&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
----
-
-### 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Manohar2503&theme=algolia&row=1&column=6&margin-w=10" />
-
-</div>
 
 ---
 
