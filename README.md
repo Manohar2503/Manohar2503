@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a3093,100:a044ff&height=220&section=header&text=Jinka%20Manohar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend-leaning%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Jinka%20Manohar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend-leaning%20Full-Stack%20Engineer%20%7C%20Distributed%20Systems&descAlignY=54&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A044FF&center=true&vCenter=true&width=520&lines=Java+%2F+Spring+Boot+%2F+Node.js;Distributed+Backend+Systems;Microservices+%7C+Caching+%7C+API+Performance;Open+to+Software+Engineer+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2800&pause=1200&color=A044FF&center=true&vCenter=true&width=560&lines=Java+%2F+Spring+Boot+%2F+Node.js;Microservices+%C2%B7+Caching+%C2%B7+API+Performance;Distributed+Backend+Systems;Currently+Open+to+SWE+Roles" alt="Typing SVG" />
 
 <br/>
 
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE%20%C2%B7%20VVIT-6a3093?style=for-the-badge)
-![CGPA](https://img.shields.io/badge/CGPA-8.5%2F10.0-8e2de2?style=for-the-badge)
-![Location](https://img.shields.io/badge/📍-India-4a00e0?style=for-the-badge)
+![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE%20%C2%B7%20VVIT-6a3093?style=for-the-badge&labelColor=1a1a2e)
+![CGPA](https://img.shields.io/badge/CGPA-8.5%2F10.0-8e2de2?style=for-the-badge&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/📍_India-4a00e0?style=for-the-badge&labelColor=1a1a2e)
+![Status](https://img.shields.io/badge/Status-Open_to_Work-2ecc71?style=for-the-badge&labelColor=1a1a2e)
 
 <br/>
 
@@ -25,136 +26,168 @@
 
 </div>
 
----
+<br/>
 
-### 🧠 About
+## 🧠 About Me
 
 I'm a backend-leaning full-stack engineer building distributed systems in **Java/Spring Boot** and **Node.js**, currently focused on microservices, caching strategies, and API performance.
 
-- 🎓 B.Tech CSE, Vasireddy Venkatadri Institute of Technology — CGPA 8.5/10.0 (2022–2026)
-- 💼 Software Engineer Intern @ AscendSkills (Feb–May 2025) — cut API response latency 30% under load
-- 🏆 Finalist, Adobe India Hackathon 2025 (national level) · 1st Place, VVIT Internal Hackathon
-- 🧩 400+ problems solved on LeetCode, including 75 DP and graph/backtracking problems
-- 🌱 Open-source contributor — merged PR to [ApostropheCMS](https://github.com/apostrophecms/apostrophe)
-- 🔭 Open to: Software Engineer roles — backend, full-stack, or distributed systems
+```yaml
+education:   "B.Tech CSE, Vasireddy Venkatadri Institute of Technology (2022–2026) — CGPA 8.5/10.0"
+experience:  "Software Engineer Intern @ AscendSkills — cut API response latency 30% under load"
+hackathons:  "Finalist, Adobe India Hackathon 2025 (national) · 1st Place, VVIT Internal Hackathon"
+leetcode:    "400+ problems solved, incl. 75 DP and graph/backtracking problems"
+open_source: "Merged PR to apostrophecms/apostrophe"
+open_to:     "Software Engineer roles — backend, full-stack, or distributed systems"
+```
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## 📊 Impact at a Glance
+
+<div align="center">
+
+| ⚡ Latency Cut | 🧩 Problems Solved | 🏗️ Microservices Shipped | 🏆 Hackathon Wins |
+|:---:|:---:|:---:|:---:|
+| **40%** (Veltrix, async Kafka) | **400+** (LeetCode) | **5** independent services | **2** (national + institute) |
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
-
 ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript)
 
 **Backend**
-
 ![Spring](https://skillicons.dev/icons?i=spring) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Kafka](https://skillicons.dev/icons?i=kafka)
 
 **Frontend**
-
 ![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-**Data & Cloud/DevOps**
-
+**Data, Cloud & Tooling**
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Postman](https://skillicons.dev/icons?i=postman)
 
----
+</div>
 
-### 🤖 Applied AI/ML
+<br/>
+
+## 🤖 Applied AI/ML
 
 | Domain | Proficiency | Details |
-|---|---|---|
+|---|:---:|---|
 | Retrieval-Augmented Generation | Applied | Built an OCR + vector search + LLM pipeline (IntelliPDF) for citation-backed document Q&A |
 | Vector Search | Applied | FAISS-based similarity search over 100+ page documents |
 | Model Deployment | Applied | Optimized inference container to run within 2GB, no GPU required |
 
----
+<br/>
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<details>
-<summary><b>Veltrix</b> — Microservices e-commerce backend</summary>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| Java, Spring Boot, PostgreSQL, Kafka, Redis, Docker | 5 independent services (Order, Inventory, Payment, Notification, Auth) | 40% cut in request processing latency under async Kafka messaging | JWT + BCrypt auth, Redis-cached token checks | 60% reduction in repeated DB lookups | [Veltrix](https://github.com/Manohar2503/Veltrix) |
+### 🛒 [Veltrix](https://github.com/Manohar2503/Veltrix)
+**Microservices e-commerce backend**
 
-A microservices-based e-commerce backend where independent services communicate asynchronously via Kafka rather than direct calls, reducing coupling and improving fault isolation. Authentication is handled with JWT and BCrypt, with token validation cached in Redis to avoid repeated database round-trips on every request.
+`Java` `Spring Boot` `PostgreSQL` `Kafka` `Redis` `Docker`
 
-</details>
+- 5 independent services (Order, Inventory, Payment, Notification, Auth) communicating asynchronously via Kafka
+- **40% cut** in request processing latency under async messaging
+- JWT + BCrypt auth with Redis-cached token checks
+- **60% reduction** in repeated DB lookups
 
-<details>
-<summary><b>IntelliPDF</b> — Document Q&A pipeline</summary>
+</td>
+<td width="50%" valign="top">
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| Python, FastAPI, React, FAISS, LLM, Docker | 100+ page PDFs | Answers with citations in under 60 seconds | N/A | Deployable on free-tier, GPU-less instances | [IntelliPdf](https://github.com/Manohar2503/IntelliPdf) |
+### 📄 [IntelliPDF](https://github.com/Manohar2503/IntelliPdf)
+**Document Q&A pipeline**
 
-A document question-answering pipeline combining OCR, vector search (FAISS), and an LLM to produce cited answers over long PDFs. The Docker image was optimized to run within 2GB of memory, making it deployable on a free-tier instance without a GPU.
+`Python` `FastAPI` `React` `FAISS` `LLM` `Docker`
 
-</details>
+- OCR + vector search (FAISS) + LLM pipeline over 100+ page PDFs
+- Citation-backed answers returned in **under 60 seconds**
+- Docker image optimized to run within **2GB**, no GPU needed
+- Deployable on free-tier, GPU-less instances
 
-<details>
-<summary><b>Alumni Engagement Platform</b> — REST API platform</summary>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| Node.js, Express, MongoDB, Redis | Auth, profiles, alumni interaction APIs | 30% improvement in p95 latency | Role-based access control, rate limiting | CI on every PR via GitHub Actions | [alumni-platform](https://github.com/Manohar2503/alumni-platform) |
+### 🎓 [Alumni Engagement Platform](https://github.com/Manohar2503/alumni-platform)
+**REST API platform**
 
-A REST API platform for alumni engagement, with role-based access control and rate limiting on top of an Express/MongoDB stack. p95 latency was improved through Redis caching, compound indexing, and cursor-based pagination, with continuous integration running on every pull request.
+`Node.js` `Express` `MongoDB` `Redis`
 
-</details>
+- Auth, profiles, and alumni interaction APIs with RBAC + rate limiting
+- **30% improvement** in p95 latency via caching, compound indexing, cursor pagination
+- Continuous integration on every PR via GitHub Actions
 
----
+</td>
+<td width="50%" valign="top">
 
-### 💼 Experience
+### 💡 What's next
+**Currently building & exploring**
 
-**Software Engineer Intern** · AscendSkills · Feb 2025 – May 2025
+- Distributed systems design & advanced caching strategies
+- LLM-powered developer tooling
+- Open to collaborating on backend / full-stack / distributed systems projects
 
-Refactored backend API routes to reduce response latency under load.
+</td>
+</tr>
+</table>
 
-- Reduced API response latency by 30% under load
-- Refactored existing route handlers for maintainability and performance
+<br/>
 
-`Java` `Spring Boot` `API Performance`
+## 💼 Experience
 
----
+<table>
+<tr>
+<td width="20%" valign="top"><b>Feb 2025 – May 2025</b></td>
+<td width="80%">
 
-### 🏆 Achievements
+**Software Engineer Intern** · AscendSkills
+
+Refactored backend API route handlers to reduce response latency under load and improve maintainability.
+
+- Reduced API response latency by **30%** under load
+- `Java` `Spring Boot` `API Performance`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🏆 Achievements
 
 <div align="center">
 
-| Recognition | Details |
+| 🥇 Recognition | Details |
 |---|---|
 | Finalist — Adobe India Hackathon 2025 | National-level hackathon |
 | 1st Place — VVIT Internal Hackathon | Institute-level competition |
 
 </div>
 
----
+<br/>
 
-### 👨‍💻 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ManoharJinka)
-
----
-
-
----
-
-### 📈 Contribution Activity
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manohar2503&theme=react-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Manohar2503&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manohar2503&theme=tokyonight&hide_border=true" width="49%"/>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manohar2503&theme=tokyonight&hide_border=true&layout=compact" width="49%"/>
+<img src="https://leetcard.jacoblin.cool/ManoharJinka?theme=dark&font=Fira+Code&ext=activity" width="49%"/>
 
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manohar2503&theme=tokyo-night&hide_border=true" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/Manohar2503/Manohar2503/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -162,20 +195,20 @@ Refactored backend API routes to reduce response latency under load.
 
 > Note: the snake animation needs a one-time [GitHub Actions workflow](https://github.com/Platane/snk) set up on your profile repo to generate the SVG.
 
----
+<br/>
 
-### 🎯 Current Focus
+## 🎯 Current Focus
 
 ```yaml
-Learning: Distributed systems design, advanced caching strategies
-Building: Microservices-based backend systems
+Learning:  Distributed systems design, advanced caching strategies
+Building:  Microservices-based backend systems
 Exploring: LLM-powered developer tooling
-Open To: Software Engineer roles — backend, full-stack, distributed systems
+Open To:   Software Engineer roles — backend, full-stack, distributed systems
 ```
 
----
+<br/>
 
-### 🔗 Connect
+## 🔗 Connect
 
 <div align="center">
 
@@ -185,12 +218,12 @@ Open To: Software Engineer roles — backend, full-stack, distributed systems
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
 <i>"Build systems that scale quietly and fail loudly."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a3093,100:a044ff&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
 
 </div>
